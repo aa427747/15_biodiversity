@@ -4,7 +4,7 @@
 ### Overview
 This project was to create charts and a dashboard using the Javascrip Plotly library, Flask API and Python.  Most of the Flask and Python was completed and our goal was to complete the Dashboard.
 
-## Getting Started
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -35,7 +35,7 @@ Once installed the requirements with the proper versions, then the app.py and ot
 
 To run the code, you will go to the StarterCode/Belly_Button_Biodiversity folder and run the app.py to get the Flask app running.  Once that is up and running, then go to your local host and the template and .js code should be working from the template and js folders.  The app.py does also use a SQLlite database for capturing the data.
 
-## Built With
+### Built With
 
 * Python [3.7.1]
 * Jupyter [5.7.4]
