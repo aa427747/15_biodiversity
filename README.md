@@ -12,7 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 The following requirements were used in the running of the app.  Also needed to run this in Git Bash or Command vs the terminal in the environment that I was running in.
 
-Don't forget to pip install -r requirements.txt before you start your server.
+Don't forget to pip install -r requirements.txt before you start your server.  The requirements text document is located in the StarterCode/Belly_Button_Biodiversity folder.  
+
 certifi==2018.4.16
 click==6.7
 Flask==1.0.2
